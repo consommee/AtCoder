@@ -9,8 +9,10 @@ T = [list(map(int,input().split())) for _ in range(a)] #二次元配列の時、
 
 # ライブラリ
 
+**組み合わせ**
+参考：https://note.nkmk.me/python-math-factorial-permutations-combinations/　<br>
 
-** 組み合わせ **　<br>
+順列の全列挙　<br>
 
 ```python:permtation.py
 import itertools
