@@ -7,9 +7,16 @@ c=list(map(int, input().split()))	#リストの時
 T = [list(map(int,input().split())) for _ in range(a)] #二次元配列の時、aは長さ
 ```
 
-# ライブラリ
+# Tips
+**計算** <br>
+ルート
 
-**組み合わせ**
+```python:root.py
+import math
+ math.sqrt(n)
+```
+
+**組み合わせ** <br>
 参考：https://note.nkmk.me/python-math-factorial-permutations-combinations/　<br>
 
 順列の全列挙　<br>
