@@ -10,7 +10,7 @@ T = [list(map(int,input().split())) for _ in range(a)] #二次元配列の時、
 # ライブラリ
 
 
-**組み合わせ**　<br>
+** 組み合わせ **　<br>
 
 ```python:permtation.py
 import itertools
